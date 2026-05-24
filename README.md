@@ -27,6 +27,8 @@ AIに読ませ、わかるまで「わかりやすく翻訳」させてみろ。
 
 -
 
+# Mission No.053：米国・イラン交渉における決裂可能性の定量評価検証 ー Quantitative Evaluation of US-Iran Negotiation Collapse
+
 ## 1. Objective / 目的
 
 * 2026年5月現在の米国・イラン交渉が内包する決裂リスクの構造化
